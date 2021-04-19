@@ -1,0 +1,35 @@
+  {
+    "venues": [
+      {
+        "id": 1,
+        "nombre": "nombre del lugar 1",
+        "description": "descripción del lugar",
+        "url": "url a la página del lugar",
+        "latlng": {
+          "lat": -32,
+          "lng": -63
+
+        }
+      },
+      {
+        "id": 2,
+        "nombre": "nombre del lugar 2",
+        "description": "descripción del lugar 2",
+        "url": "url a la página del lugar 2",
+        "latlng": {
+          "lat": -31,
+          "lng": -62
+        }
+      },
+      {
+        "id": 3,
+        "nombre": "nombre del lugar 3",
+        "description": "descripción del lugar 3",
+        "url": "url a la página del lugar 3",
+        "latlng": {
+         "lat": -30,
+         "lng": -61
+        }
+      }
+    ]
+  }
