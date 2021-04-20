@@ -7,6 +7,7 @@ const Marcador = () => {
   const arrayMarkers = venues.map((location) => {
     return (
       <Marker
+        key={location.id}
         position={location.latlng}
         icon={Icono}>
         <Popup>
